@@ -1,0 +1,9 @@
+<!-- res/drawable/sun_gradient.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="#F44336"
+    android:centerColor="#FF9800"
+    android:endColor="#FDCA49"
+        android:angle="90"
+    android:type="linear" />
+</shape>
